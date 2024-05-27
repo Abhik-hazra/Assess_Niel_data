@@ -4,7 +4,7 @@ This repo contains the Nielsen Critical Assessment data to be pulled into Collab
 
 ## Getting Started
 
-Recently, I was contacted by a Nielsen recruitment team, and they gave me a take-home assessment. It was a marketing analytics team. 
+Recently, I was contacted by a Nielsen recruitment team, and they sent me a take-home assessment. It was a marketing analytics team. 
 I am posting both the Notebook that they had sent me and parts of the solution that I came up with. I am uploading this, just as an overview for anyone preparing for interviews and get ahead quickly. However, I just spent a few hours on the notebook and I haven't worked thoroughly on the Logistic regression part due to lack of time. 
 
 ## The Notebooks
